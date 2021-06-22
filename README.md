@@ -1,4 +1,4 @@
-# php File Manager & File Transfer System
+# PHP File Manager & File Transfer System
  
 Just clone and upload the zip folder on your local dairectroy unzip and run the code https://yourdomain/BM-Admin/setup.php <br>
 **(Bo DataBase Required)**
