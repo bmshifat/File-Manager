@@ -52,8 +52,8 @@ $privacy = file_exists($privacy_file) ? file_get_contents($privacy_file) : false
                 </span>
             <?php
             } else { ?>
-                <a class="pull-right" title="Built with Veno File Manager" target="_blank" href="http://filemanager.veno.it">
-                    <i class="vfmi vfmi-typo"></i>
+                <a class="pull-right" title="Built By BM Shifat" target="_blank" href="http://"bmshifat.me>
+                 BM
                 </a>
             <?php
             } 
