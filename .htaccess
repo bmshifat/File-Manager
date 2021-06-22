@@ -1,0 +1,13 @@
+# begin BM rules
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_URI}::$1 ^(.*?/)(.*)::\2$
+RewriteRule ^(.*)$ - [E=BASE:%1]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule download/(.*)/sh/(.*)/share/(.*) %{ENV:BASE}/BM-Admin/BM-downloader.php?q=$1&sh=$2&share=$3 [L]
+RewriteRule download/(.*)/h/(.*) %{ENV:BASE}/BM-Admin/BM-downloader.php?q=$1&h=$2 [L]
+RewriteRule download/zip/(.*)/n/(.*) %{ENV:BASE}/BM-Admin/BM-downloader.php?zip=$1&n=$2 [L]
+</IfModule>
+Options -Indexes
+# end BM rules

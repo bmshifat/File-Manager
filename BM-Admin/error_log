@@ -1,0 +1,30 @@
+[22-Jun-2021 07:15:35 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home3/mania/mycloud/BM-Admin/class/class.admin.php on line 193
+[22-Jun-2021 13:15:55 Asia/Dhaka] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home3/mania/mycloud/BM-Admin/class/class.admin.php on line 193
+[22-Jun-2021 13:17:12 Asia/Dhaka] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home3/mania/mycloud/BM-Admin/class/class.admin.php on line 193
+[22-Jun-2021 13:18:15 Asia/Dhaka] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home3/mania/mycloud/BM-Admin/class/class.admin.php on line 193
+[22-Jun-2021 13:18:15 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:15 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Passed data is not in 'WBMP' format in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:15 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Couldn't create GD Image Stream out of Data in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:15 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:15 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Passed data is not in 'WBMP' format in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:15 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Couldn't create GD Image Stream out of Data in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:29 Asia/Dhaka] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home3/mania/mycloud/BM-Admin/class/class.admin.php on line 193
+[22-Jun-2021 13:18:29 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:29 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Passed data is not in 'WBMP' format in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:29 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Couldn't create GD Image Stream out of Data in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:29 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:29 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Passed data is not in 'WBMP' format in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:18:29 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Couldn't create GD Image Stream out of Data in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:19:55 Asia/Dhaka] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home3/mania/mycloud/BM-Admin/class/class.admin.php on line 193
+[22-Jun-2021 13:19:55 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:19:55 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Passed data is not in 'WBMP' format in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:19:55 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Couldn't create GD Image Stream out of Data in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:19:55 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): one parameter to a memory allocation multiplication is negative or zero, failing operation gracefully
+ in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:19:55 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Passed data is not in 'WBMP' format in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
+[22-Jun-2021 13:19:55 Asia/Dhaka] PHP Warning:  imagecreatefromstring(): Couldn't create GD Image Stream out of Data in /home3/mania/mycloud/BM-Admin/class/class.php-ico.php on line 256
