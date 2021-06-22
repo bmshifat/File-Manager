@@ -8,9 +8,9 @@ User:- admin<br>
 Pass:- password<br>
 
 
-
+Demo
 -----------------------
-Demo:- https://bmshifat.educationhost.cloud<br>
+link:-Demo https://bmshifat.educationhost.cloud<br>
 UserName:- user<br>
 PassWord:- password<br>
 
